@@ -3,7 +3,7 @@
 To register for bootcamp, visit:
 <a href="https://letsupgrade.in"> letsupgrade.in</a>
 <li><a href=
-"https://www.instagram.com/letsupgrade.in 
+"https://instagram.com/letsupgrade.in?utm_medium=copy_link
 /?hl=en">Instagram</a>
 <li><a
 href=
